@@ -1,0 +1,23 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# ML/Data
+data/
+models/
+*.h5
+*.pkl
+*.pt
+*.ckpt
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+*.log
